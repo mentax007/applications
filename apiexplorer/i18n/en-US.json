@@ -1,0 +1,12 @@
+{
+	"main": {
+		"main_block": "API",
+		"search_block": "Search",
+		"request": "Try it",
+		"invalid_form": "Form is invalid!",
+		"show_all": "Show All",
+		"animation": "Animation",
+		"title_config": "Options",
+		"save_config": "Save",
+		"query_param": "Query parameter"
+	}
